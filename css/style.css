@@ -1,0 +1,46 @@
+.ui.menu.fixed.inverted{
+	border: none;
+	box-shadow: none;
+	background-color: transparent;
+}
+
+.logo {
+	content: url('../images/logo.png');
+	width:2em;
+}
+
+.ui.landingimage {
+	height: 45em;
+}
+
+.landingimage {
+	background-image: url('../images/bedroom2.jpeg');
+}
+
+.huge.message {
+	background-color: transparent;
+	color:white;
+	text-shadow: 1PX 1PX black;
+	padding-top: 150px;
+	box-shadow: none;
+}
+
+.ui.huge.header {
+	color:white;
+}
+
+.blocjumbo {
+	padding-left: 100px;
+}
+ 
+.ui.button {
+	background-color: transparent;
+	border: 2px solid grey;
+	border-radius: 40px;
+	color: white;
+} 
+.container.photos {
+	margin-top: 100 px;
+	margin-left:30 px;
+}
+	
